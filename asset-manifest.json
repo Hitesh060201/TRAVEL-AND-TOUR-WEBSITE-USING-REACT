@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/TRAVEL-AND-TOUR-WEBSITE-USING-REACT/static/css/main.eb794e26.css",
+    "main.js": "/TRAVEL-AND-TOUR-WEBSITE-USING-REACT/static/js/main.b90e112c.js",
+    "static/media/video(2).mp4": "/TRAVEL-AND-TOUR-WEBSITE-USING-REACT/static/media/video(2).cbf0d02f24d5afc5c6f1.mp4",
+    "static/media/Video.mp4": "/TRAVEL-AND-TOUR-WEBSITE-USING-REACT/static/media/Video.30b610347e616fa79477.mp4",
+    "static/media/img(3).jpg": "/TRAVEL-AND-TOUR-WEBSITE-USING-REACT/static/media/img(3).f44dfa7ff314d0aa5d6c.jpg",
+    "static/media/img(1).jpg": "/TRAVEL-AND-TOUR-WEBSITE-USING-REACT/static/media/img(1).7e79cec93e82131603fa.jpg",
+    "static/media/img(2).jpg": "/TRAVEL-AND-TOUR-WEBSITE-USING-REACT/static/media/img(2).de1d84e1afe70e5a743e.jpg",
+    "static/media/img(7).jpg": "/TRAVEL-AND-TOUR-WEBSITE-USING-REACT/static/media/img(7).751b8414d070e0fae08f.jpg",
+    "static/media/img(4).jpg": "/TRAVEL-AND-TOUR-WEBSITE-USING-REACT/static/media/img(4).1ab9ab46c1b471f9a35b.jpg",
+    "static/media/img(5).jpg": "/TRAVEL-AND-TOUR-WEBSITE-USING-REACT/static/media/img(5).ec069a36914650b44465.jpg",
+    "static/media/img(8).jpg": "/TRAVEL-AND-TOUR-WEBSITE-USING-REACT/static/media/img(8).d7cf4ed6057e2e661521.jpg",
+    "static/media/img(9).jpg": "/TRAVEL-AND-TOUR-WEBSITE-USING-REACT/static/media/img(9).adec8c14e27ce3f4a082.jpg",
+    "static/media/img(6).jpg": "/TRAVEL-AND-TOUR-WEBSITE-USING-REACT/static/media/img(6).05566f51761be5f30e10.jpg",
+    "index.html": "/TRAVEL-AND-TOUR-WEBSITE-USING-REACT/index.html",
+    "main.eb794e26.css.map": "/TRAVEL-AND-TOUR-WEBSITE-USING-REACT/static/css/main.eb794e26.css.map",
+    "main.b90e112c.js.map": "/TRAVEL-AND-TOUR-WEBSITE-USING-REACT/static/js/main.b90e112c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb794e26.css",
+    "static/js/main.b90e112c.js"
+  ]
+}
